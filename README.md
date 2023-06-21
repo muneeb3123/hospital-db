@@ -1,7 +1,7 @@
 <div align ="center">
     <img src="clinic_diagram.png" alt="logo" width="700"  height="auto" />
   <br/>
-  <h3><b>Paws and Claws Clinic</b></h3>
+  <h3><b>database based on a diagram</b></h3>
 </div>
 <!-- TABLE OF CONTENTS -->
 
@@ -29,11 +29,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [database based on a diagram] <a name="about-project"></a>
 
-> This project involves the creation of a relational database to store animals' information for a vet clinic. The database will have a table to store animal records, and we will perform data insertion and querying operations on it.
-
-**[your_project__name]** Vet Clinic Database
+> This project involves the creation of a relational database from database diagram to store information. It create many-to-many tables and add foreign keys.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -68,11 +66,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> Describe between 1-2 key features of the application.
 
-- **[Database Creation and Table Schema: Create a relational database named "vet_clinic" and define a table named "animals" to store animal information.]**
-- **[Data Insertion: Insert specific animal data into the "animals" table, including details such as name, date of birth, weight, neutered status, and escape attempts.]**
-- **[Data Querying: Write SQL queries to retrieve information from the "animals" table based on criteria such as name, birth year, neutered status, escape attempts, and weight]**
+- **[Database Creation and Table Schema: Create a relational database and define a table to store information.]**
+- **[Addin foreign keys for the many-to-may relationships]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

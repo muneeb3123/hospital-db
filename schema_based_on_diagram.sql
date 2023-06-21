@@ -45,8 +45,6 @@ CREATE TABLE invoice_items (
     FOREIGN KEY(treatment_id) REFERENCES treatments(id)
 )
 
-
-
 -- Adding foreign key index to patient_id column in medical_histories table
 
 CREATE INDEX fk_idx_medical_histories_patient_id ON medical_histories (patient_id);
